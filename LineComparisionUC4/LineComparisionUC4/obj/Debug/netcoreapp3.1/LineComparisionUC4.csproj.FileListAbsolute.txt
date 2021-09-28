@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.exe
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.deps.json
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.runtimeconfig.json
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.dll
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\bin\Debug\netcoreapp3.1\LineComparisionUC4.pdb
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.dll
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.pdb
+C:\Users\INDIA\source\repos\LineComparisionUC4\LineComparisionUC4\obj\Debug\netcoreapp3.1\LineComparisionUC4.genruntimeconfig.cache
